@@ -1,0 +1,10 @@
+D:\uni\тестовое\tess\tess\bin\Debug\tess.exe.config
+D:\uni\тестовое\tess\tess\bin\Debug\tess.exe
+D:\uni\тестовое\tess\tess\bin\Debug\tess.pdb
+D:\uni\тестовое\tess\tess\obj\Debug\tess.csprojAssemblyReference.cache
+D:\uni\тестовое\tess\tess\obj\Debug\tess.Form1.resources
+D:\uni\тестовое\tess\tess\obj\Debug\tess.Properties.Resources.resources
+D:\uni\тестовое\tess\tess\obj\Debug\tess.csproj.GenerateResource.cache
+D:\uni\тестовое\tess\tess\obj\Debug\tess.csproj.CoreCompileInputs.cache
+D:\uni\тестовое\tess\tess\obj\Debug\tess.exe
+D:\uni\тестовое\tess\tess\obj\Debug\tess.pdb
